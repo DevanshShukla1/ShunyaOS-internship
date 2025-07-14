@@ -3,7 +3,7 @@
 
 This project is a real-time food detection and classification system built using the YOLOv8 model. It can detect over **10 unique Indian food dishes** with high precision.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/DevanshShukla1/ShunyaOS-internship/README.md/output_image_15_1.jpg?raw=true)
 
 ---
 
