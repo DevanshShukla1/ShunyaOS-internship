@@ -1,11 +1,8 @@
 
 # 🍛 Indian Food Dish Detection using YOLOv8
 
-This project is a real-time food detection and classification system built using the YOLOv8 model. It can detect over **10 unique Indian food dishes** with high precision.
+![Sample Output](https://github.com/DevanshShukla1/ShunyaOS-internship/raw/main/output_image_15_1.jpg)
 
-# 🍛 Indian Food Dish Detection using YOLOv8
-
-![Sample Output](https://github.com/DevanshShukla1/ShunyaOS-internship/raw/main/output/output_image_15_1.jpg)
 
 This project is a real-time food detection and classification system...
 
